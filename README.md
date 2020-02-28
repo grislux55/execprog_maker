@@ -1,4 +1,8 @@
-# execprog_maker
+# Execprog Maker
+
+This is a generator for [execprog.h](https://github.com/arter97/android_kernel_oneplus_sm8150/blob/master/init/execprog.h).
+
+So we can calculate it easily.
 
 ## Usage
 
